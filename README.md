@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Romaisa Alvi (@Hajime711)
 - I’m interested in Coding, ofcourse
 - I’m currently learning various skills...
-- They include Data analysis, and Flutter App Development and Web development 
+- Always eager to learn more of this stuff
